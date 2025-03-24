@@ -40,8 +40,8 @@ Welcome to my GitHub! I'm a **DevOps Engineer** passionate about **automation, C
 ---
 
 ### 📫 **Let's Connect!**  
-🔗 [LinkedIn] (www.linkedin.com/in/prathamesh-nandgirwar)  
-📧 Email: prathamnandgirwar@outlook.com
+🔗 [LinkedIn] (www.linkedin.com/in/aishwarya-mhavarkar)  
+📧 Email: aishwaryamhavarkar@outlook.com
 
 ---
 
